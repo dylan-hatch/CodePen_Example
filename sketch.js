@@ -6,6 +6,6 @@ function setup() {
 // Hold A Ball, basically
 function draw() {
   background(0);
-  fill(255);
+  fill(255, 0, 0);
   ellipse(mouseX, mouseY, 80, 80);
 }
